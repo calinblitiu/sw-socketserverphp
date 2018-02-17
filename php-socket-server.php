@@ -30,7 +30,7 @@ function onConnect( $client ) {
 
 	$read = '';
 	printf( "[%s] Connected at port %d\n", $client->getAddress(), $client->getPort() );
-	$client->send( 'Connection is successed!'.PHP_EOL);
+	$client->send( 'Connection is successed'.PHP_EOL);
 
 	while( true ) {
 		$read = $client->read();
@@ -180,7 +180,7 @@ function pushNotification($token, $devide_id){
 
 require "sock/SocketServer.php";
 
-$server = new \Sock\SocketServer('9898','45.32.218.231');
+$server = new \Sock\SocketServer('9898','144.202.18.80');
 $server->init();
 $server->setConnectionHandler( 'onConnect' );
 $server->listen();
